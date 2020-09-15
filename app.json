@@ -1,0 +1,12 @@
+{
+  "name": "CarHanna-App-tel",
+  "displayName": "CarHanna-App-tel",
+  "expo": {
+    "name": "CarHanna-App-tel",
+    "slug": "CarHanna-App-tel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
